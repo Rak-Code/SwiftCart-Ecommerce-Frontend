@@ -9,7 +9,7 @@ const Footer = () => {
       <Container fluid="lg">
         <Row className="align-items-center py-2">
           <Col md={3} className="text-center text-md-start">
-            <span className="fw-bold">Athena</span>
+            <span className="fw-bold">SwiftCart</span>
           </Col>
           
           <Col md={6} className="text-center">
@@ -25,14 +25,14 @@ const Footer = () => {
               </a>
             </div>
             <div className="mt-2">
-              <span className="text-muted small">© 2025 Athena. All Rights Reserved.</span>
+              <span className="text-muted small">© 2025 SwiftCart. All Rights Reserved.</span>
             </div>
           </Col>
           
           <Col md={3} className="text-center text-md-end">
             <div className="d-flex flex-column align-items-center align-items-md-end">
-              <a href="mailto:contact@athena.com" className="text-dark text-decoration-none small">
-                <FaEnvelope size={12} className="me-1" /> contact@athena.com
+              <a href="mailto:contact@swiftcart.com" className="text-dark text-decoration-none small">
+                <FaEnvelope size={12} className="me-1" /> contact@swiftcart.com
               </a>
               {/* <a href="tel:+18001234567" className="text-dark text-decoration-none small">
                 <FaPhone size={11} className="me-1" /> (800) 123-4567

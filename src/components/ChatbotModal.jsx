@@ -94,7 +94,7 @@ const ChatbotModal = ({ show, onHide }) => {
       centered
     >
       <Modal.Header closeButton>
-        <Modal.Title>Athena AI Assistant</Modal.Title>
+        <Modal.Title>SwiftCart Assistant</Modal.Title>
       </Modal.Header>
       <Modal.Body>
         <div 

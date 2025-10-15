@@ -42,7 +42,7 @@ const ContactUsForm = () => {
               <h6 className="fw-bold mb-3">Customer Support</h6>
               <div className="d-flex align-items-center mb-2">
                 <FaEnvelope className="me-2 text-dark" />
-                <span>support@athena.com</span>
+                <span>support@swiftcart.com</span>
               </div>
               <div className="d-flex align-items-center">
                 <FaStar className="me-2 text-dark" />

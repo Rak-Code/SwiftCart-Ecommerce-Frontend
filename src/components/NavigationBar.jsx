@@ -34,13 +34,14 @@ const NavigationBar = ({ setSearchTerm, user, onLoginSuccess }) => {
     console.log('User logged out successfully');
   };
 
+  
   return (
     <>
       <Navbar bg="light" expand="lg" className="shadow-sm">
         <Container>
           <Navbar.Brand as={NavLink} to="/" className="d-flex align-items-center custom-brand">
             <FaDove className="owl-icon me-2" />
-            <span className="brand-text">Athena</span>
+            <span className="brand-text">SwiftCart</span>
           </Navbar.Brand>
 
           <Navbar.Toggle aria-controls="navbar-nav" />

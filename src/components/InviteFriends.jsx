@@ -15,7 +15,7 @@ const InviteFriends = () => {
             <Form.Label>Your Referral Link</Form.Label>
             <Form.Control
               type="text"
-              value="https://athena.com/invite/yourcode"
+              value="https://swiftcart.com/invite/yourcode"
               readOnly
             />
           </Form.Group>

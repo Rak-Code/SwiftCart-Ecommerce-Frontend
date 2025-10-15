@@ -63,7 +63,7 @@ const Checkout = () => {
         key: "${razorpay.key_id}", // Replace with your actual key if needed.
         amount: response.data.amount, // Amount in paise from backend
         currency: "INR",
-        name: "Athena Store",
+  name: "SwiftCart",
         description: `Order #${orderId}`,
         order_id: response.data.id,
         handler: async function (paymentResponse) {
